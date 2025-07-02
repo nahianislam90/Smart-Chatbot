@@ -39,7 +39,7 @@ Wait until the Mistral model is ready and listening.
 
 Clone this repository
 
-git clone https://github.com/yourusername/offline-smart-chatbot.git
+git clone https://github.com/nahianislam90/offline-smart-chatbot.git
 cd offline-smart-chatbot
 
 pip install requests
